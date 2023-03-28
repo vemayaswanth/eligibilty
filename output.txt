@@ -1,0 +1,5 @@
+enter age:
+18
+
+VERIFY
+eligible to vote
